@@ -3,4 +3,11 @@ Hello_World.exe
 Conditional Statements in C.exe
 Printing Pattern Using Loops.exe
 Calculate the Nth term.exe
+<<<<<<< HEAD
 Digit Frequency.exe
+=======
+Array Reversal.exe
+Printing Tokens.exe
+Students Marks Sum.exe
+Boxes through a Tunnel.exe
+>>>>>>> b8d629a626e30eed8daf2acacf9cda74580c6b28
